@@ -1,0 +1,18 @@
+{
+  "name": "carbon-footprinting",
+  "version": "1.0.0",
+  "description": "try2",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pawan Wadhwani",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  },
+  "dependencies": {
+    "require": "^2.4.20",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
