@@ -1,5 +1,5 @@
 # carbon-footprinting
-What Is Our Carbon Footprint?
+# What Is Our Carbon Footprint?
 
 Carbon Emissions exist everywhere. From our every breath to flights flying in the sky, all living objects emit Carbon in one form or another.
 Since the late 1990s, the term carbon footprint has become widely used in the public debate on personal and corporate responsibility in response to global climate change. Its ubiquity is largely because it appears to be an easy way of commodifying an individual or company's CO2 emissions.
